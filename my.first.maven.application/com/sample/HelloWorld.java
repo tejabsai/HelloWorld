@@ -2,7 +2,12 @@ package com.sample;
 
 public class HelloWorld {
 
-	public static void main(String[] args) {
+	/**
+	 * This is my main method
+	 * @param args
+	 */
+	public static void main(String[] arguments) {
+		System.out.println("Test");
 		System.out.println("Hello World Durga...");
 	
 	}
